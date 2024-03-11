@@ -1,0 +1,17 @@
+.iconsimage {
+    height: 41px;
+    width: 41px;
+    cursor: pointer;
+}
+
+.active {
+    .logo-label {
+        color: black;
+    }
+
+    /* border: none;
+    width: 80%;
+    height: 3px;
+    border-radius: 10px;
+    background: #FF4141; */
+}
